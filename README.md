@@ -1,2 +1,2 @@
-# google_colab_tensorflow_gpu
+# google-colab-tensorflow-gpu
 Google Colab TensorFlow GPU Test
